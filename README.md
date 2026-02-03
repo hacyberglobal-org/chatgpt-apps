@@ -3,6 +3,9 @@ Updated Dec 16, 2025
 
 Raw JSON file: https://raw.githubusercontent.com/Instafill/chatgpt-apps-connectors/refs/heads/main/connectors.json
 
+
+[AI Kids Stories Generator 🍧](https://sprinklesstories.com)
+
 |#|name|description|created_at|base_url|
 |---|---|---|---|---|
 |1|HighLevel|Smartly interact with your business data in the CRM|Dec 15, 2025|https://services.leadconnectorhq.com/mcp/chatgpt|
